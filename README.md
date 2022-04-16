@@ -1,4 +1,4 @@
-# newhome
+# NewHome
 <p>
  <img width="200"src="https://user-images.githubusercontent.com/37590524/163653890-58f9a1c6-48c0-4869-92d3-d85791788f4c.png"
 />
